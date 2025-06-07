@@ -1013,12 +1013,15 @@ li.warnings a.tag:visited {
 
 a.tag:hover,
 li.warnings a.tag:hover {
+  background: url(https://64.media.tumblr.com/df517c24db8b850e68543c54feb23afb/baa0244150b0f003-59/s1280x1920/ebbe155a6d44c2e2c47329dd52f2225e8100d909.jpg);
+  background-color: #666;
+  background-size: 250px;
   font-weight: 599;
-  background: #666;
-  color: #000;
+  color: #fff;
   border-color: #333;
-  text-shadow: 1px 1px 3px rgb(240, 240, 240, 0.8);
+  text-shadow: 1px 1px 3px rgb(0, 0, 0, 0.8);
   -webkit-text-stroke: 0.49px #5a5a5a;
+  background-blend-mode: overlay;
 }
 
 li.relationships a.tag,
