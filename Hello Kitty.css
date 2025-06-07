@@ -504,11 +504,15 @@ a.work,
 .system div.news h3,
 .system .tweets h3,
 .required,
-.error,
 a.cloud7,
 a.cloud8 {
-	background: #333;
+	background: transparent;
 	color: #EFD1D1;
+}
+
+.error {
+  background: #333;
+  color: #EFD1D1;
 }
 
 #greeting img.icon {
