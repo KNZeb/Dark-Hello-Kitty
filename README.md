@@ -9,6 +9,8 @@ Here are the inputs for Wizard.
 
 <h2>Fonts and Whitespace</h2>
 <p>Font: Monaco</p>
+<p>Text Color: #FEE9EE</p>
+
 
 <h2>Color</h2>
 <p>Background color: #7f636c</p>
